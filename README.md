@@ -62,8 +62,7 @@ app/
 - **AI-based Predictions** for project completion time
 
 ## Contributors
-- **Your Name** ([GitHub Profile](https://github.com/yourusername))
+- **Mehakpreet kaur** (https://github.com/Mehakpreet123)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
