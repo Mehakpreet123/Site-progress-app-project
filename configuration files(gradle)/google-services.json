@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533941406882",
+    "project_id": "construction-tracker-app",
+    "storage_bucket": "construction-tracker-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533941406882:android:d3579304790b1786521bfb",
+        "android_client_info": {
+          "package_name": "com.example.siteprogress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5X3HjymPt7XbV1KalY8KkvTHgSisoRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
