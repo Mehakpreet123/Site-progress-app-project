@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <!-- Project Name Input -->
+    <EditText
+        android:id="@+id/etProjectName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Project Name"
+        android:inputType="text" />
+
+    <!-- Project Description Input -->
+    <EditText
+        android:id="@+id/etProjectDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Project Description"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        android:gravity="top"
+        android:paddingTop="8dp" />
+
+    <!-- Project Deadline Input -->
+    <EditText
+        android:id="@+id/etProjectDeadline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Deadline (DD/MM/YYYY)"
+        android:inputType="date"
+        android:paddingTop="8dp" />
+
+    <!-- Save Button -->
+    <Button
+        android:id="@+id/btnSaveProject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Project"
+        android:layout_marginTop="12dp"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
