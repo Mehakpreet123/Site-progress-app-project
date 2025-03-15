@@ -23,16 +23,14 @@
         <activity
             android:name=".EngineerPortal"
             android:exported="false" />
-
         <activity
             android:name=".signup"
             android:exported="false" />
         <activity
             android:name=".login"
             android:exported="false">
-
+            
         </activity>
-
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -42,8 +40,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
     </application>
 
 </manifest>
